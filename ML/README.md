@@ -50,7 +50,7 @@ To get started with the Hands-on MLOps Curriculum, follow these steps:
    ```bash
    git clone https://github.com/theBeginner86/mlops-learnings
    
-   cd MLOps
+   cd mlops-learnings
    ```
 
 2. **Install dependencies:**

@@ -26,17 +26,25 @@ This curriculum is designed to provide hands-on experience in implementing MLOps
 
 Ray is a distributed computing framework that helps you scale your machine learning applications across multiple CPUs or GPUs. It provides simple APIs for parallel and distributed Python applications.
 
+Try out [RayDeployment](./RayDeployment.ipynb) notebook to understand how to deploy a model using Ray Serve.
+
 ### MLflow
 
 MLflow is an open-source platform for managing the end-to-end machine learning lifecycle. It supports experiment tracking, reproducibility, and deployment of models from various ML libraries.
+
+Try out [MLFlow](./MLFlow.ipynb) notebook to understand how to track experiments and deploy models using MLflow.
 
 ### Optuna
 
 Optuna is an automatic hyperparameter optimization framework. It simplifies the process of finding optimal hyperparameters for machine learning models using state-of-the-art algorithms.
 
+Try out [Optuna](./Optuna.ipynb) notebook to understand how to optimize hyperparameters using Optuna.
+
 ### DVC (Data Version Control)
 
 DVC is an open-source version control system for data science and machine learning projects. It helps you manage datasets, models, and experiments with Git-like commands.
+
+Try out [DVC](./DVC.ipynb) notebook to understand how to version datasets and models using DVC.
 
 ### LIME (Local Interpretable Model-agnostic Explanations)
 

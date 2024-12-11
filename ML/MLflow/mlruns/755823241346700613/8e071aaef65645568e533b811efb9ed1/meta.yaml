@@ -1,0 +1,15 @@
+artifact_uri: /home/thebeginner86/code/MLOps/ML/MLflow/mlruns/755823241346700613/8e071aaef65645568e533b811efb9ed1/artifacts
+end_time: 1733916958708
+entry_point_name: ''
+experiment_id: '755823241346700613'
+lifecycle_stage: active
+run_id: 8e071aaef65645568e533b811efb9ed1
+run_name: initial experiment
+run_uuid: 8e071aaef65645568e533b811efb9ed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733916942239
+status: 3
+tags: []
+user_id: thebeginner86

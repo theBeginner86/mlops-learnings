@@ -1,0 +1,15 @@
+artifact_uri: /home/thebeginner86/code/MLOps/ML/MLflow/mlruns/0/47b387f35ad345d1a7e918c5cc66ef48/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47b387f35ad345d1a7e918c5cc66ef48
+run_name: selective-mole-223
+run_uuid: 47b387f35ad345d1a7e918c5cc66ef48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733908918990
+status: 1
+tags: []
+user_id: thebeginner86

@@ -1,0 +1,16 @@
+digest: 25f86d1c
+name: Loan Approval Dataset
+profile: '{"num_rows": 4269, "num_elements": 55497}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "loan_id", "required": true},
+  {"type": "long", "name": "no_of_dependents", "required": true}, {"type": "long",
+  "name": "education", "required": true}, {"type": "long", "name": "self_employed",
+  "required": true}, {"type": "long", "name": "income_annum", "required": true}, {"type":
+  "long", "name": "loan_amount", "required": true}, {"type": "long", "name": "loan_term",
+  "required": true}, {"type": "long", "name": "cibil_score", "required": true}, {"type":
+  "long", "name": "residential_assets_value", "required": true}, {"type": "long",
+  "name": "commercial_assets_value", "required": true}, {"type": "long", "name": "luxury_assets_value",
+  "required": true}, {"type": "long", "name": "bank_asset_value", "required": true},
+  {"type": "long", "name": "loan_status", "required": true}]}'
+source: '{"tags": {"mlflow.user": "thebeginner86", "mlflow.source.name": "/home/thebeginner86/code/MLOps/venv/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
